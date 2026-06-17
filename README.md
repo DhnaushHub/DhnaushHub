@@ -147,13 +147,7 @@ me = DhanushRamM()
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhnaushHub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
